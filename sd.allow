@@ -1,0 +1,4 @@
+version: 1
+push:
+  - screwdriver:5869
+  - screwdriver:5869pr
